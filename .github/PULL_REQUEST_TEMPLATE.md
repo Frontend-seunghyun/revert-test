@@ -19,3 +19,13 @@
 1. 사전에 정의한 [컨벤션](https://www.notion.so/cashwalkteam/Frontend-Coding-Convention-0f7a0a4453384daabfa543fa694d0fc5)을 숙지하여 코드에 반영합니다.
 2. 로컬에서 빌드가 잘 되는지 확인합니다. (추후 action으로 핸들링)
 3. Files changed탭에서 변경사항을 스스로 한 번 확인합니다.
+
+### 🧑🏻 PR 리뷰어 리마인더
+
+리뷰어분께선 아래 **P5 Rule**을 참고하여 리뷰를 진행해주세요.
+
+- P1: 꼭 반영해주세요 (Review changes)
+- P2: 적극적으로 고려해주세요 (Review changes)
+- P3: 웬만하면 반영해 주세요 (Comment)
+- P4: 반영해도 좋고 넘어가도 좋습니다 (Approve)
+- P5: 그냥 사소한 의견입니다 (Approve)
